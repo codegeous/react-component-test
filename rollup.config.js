@@ -18,6 +18,7 @@ export default [
         exports: 'named',
       }
     ],
+    external: ['prop-types'],
     plugins: [
       postcss({
         plugins: [],

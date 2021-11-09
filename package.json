@@ -1,6 +1,6 @@
 {
   "name": "react-component-test-npm-pkg",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A simple react component library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
